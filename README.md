@@ -1,7 +1,7 @@
 # LHAASO SJTU Group
 
 ## This repository is used for paper reading. You can create issues with title \[paper title\]\(link\). 
-### To discuss a paper in group meeting, a special label can be set. PaperReading file is used to record issues weekly.
+#### To discuss a paper in group meeting, a special label can be set. Modify the contents of the `README.md` file to update the list of papers.
 
 ### May, 2024
 
@@ -12,3 +12,4 @@
 * [Performance of the HAWC Observatory and TeV Gamma-Ray Measurements of the Crab Nebula with Improved Extensive Air Shower Reconstruction Algorithms](https://arxiv.org/abs/2405.06050)
 
 ### June, 2024
+* TBD

@@ -5,7 +5,7 @@
 
 ### May, 2024
 
-* [LHAASO Catalog](https://arxiv.org/abs/2305.17030)
+* [LHAASO Catalog](https://arxiv.org/abs/2305.17030) [Summary:](paper-summaries/summary_1.md)
 * [LHAASO GRB 221009 A](https://www.science.org/doi/10.1126/sciadv.adj2778)
 * [Radio relics in galaxy clusters](https://doi.org/10.1093/mnras/stad3154)
 * [Accurate Measurement of the Lensing Magnification by BOSS CMASS Galaxies and Its Implications for Cosmology and Dark Matter](https://arxiv.org/abs/2405.16484)

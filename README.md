@@ -9,7 +9,7 @@
 * [Radio relics in galaxy clusters](https://doi.org/10.1093/mnras/stad3154)
 * [Accurate Measurement of the Lensing Magnification by BOSS CMASS Galaxies and Its Implications for Cosmology and Dark Matter](https://arxiv.org/abs/2405.16484)
 * [Performance of the HAWC Observatory and TeV Gamma-Ray Measurements of the Crab Nebula with Improved Extensive Air Shower Reconstruction Algorithms](https://arxiv.org/abs/2405.06050)
-* [Fermi's 1FAV & 2FAV Catalog](paper_summaries/summary_2fav.md)
+* [Fermi's 1FAV & 2FAV Catalog](paper-summaries/summary_2fav.md)
 
 ### June, 2024
 * TBD

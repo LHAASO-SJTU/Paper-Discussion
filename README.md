@@ -13,6 +13,6 @@
 
 ### Week of June 3, 2024
 * [transient sources of ultra-high-energy cosmic rays](paper-summaries/summary_uhecrsSFR.md) Sergio (Mon)
-* [3HWC J1928+178, 3HWC J1930+188, and the New Source HAWC J1932+192] Ziwei (Mon)
+* [3HWC J1928+178, 3HWC J1930+188, and the New Source HAWC J1932+192](paper-summaries/summary_ziwei.md) Ziwei (Mon)
 * [An ultrahigh-energy γ-ray bubble powered by a super PeVatron(Supplementary materials)](https://ars.els-cdn.com/content/image/1-s2.0-S209592732300912X-mmc1.pdf) Tianyang (Mon)
 * [Finding Candidate TeV Halos among Very-High Energy Sources](paper-summaries/summary_find_halos_tev.md) - Ramiro (Mon)

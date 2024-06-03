@@ -6,6 +6,7 @@ Paper Title: [Finding Candidate TeV Halos among Very-High Energy Sources](https:
 ![Candidate Table 2](images-folder/table2.png)
 
 ## Halo Candidates:
+
 | Source Name | Age (kyr) | Dist (kpc) | Edot (10^35 erg/s) |
 | - | - | - | - |
 | J0248+6021 | 62.4 | 2 | 2.13 |

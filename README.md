@@ -8,7 +8,7 @@
 * [LHAASO GRB 221009 A](https://www.science.org/doi/10.1126/sciadv.adj2778) Sergio (Tue)
 * [Radio relics in galaxy clusters](https://doi.org/10.1093/mnras/stad3154) Sergio (Wed)
 * [Accurate Measurement of the Lensing Magnification by BOSS CMASS Galaxies and Its Implications for Cosmology and Dark Matter](https://arxiv.org/abs/2405.16484) Sergio (Thur)
-* [Performance of the HAWC Observatory and TeV Gamma-Ray Measurements of the Crab Nebula with Improved Extensive Air Shower Reconstruction Algorithms](https://arxiv.org/abs/2405.06050) Sergio (Fri)
+* [Performance of the HAWC Observatory and TeV Gamma-Ray Measurements of the Crab Nebula with Improved Extensive Air Shower Reconstruction Algorithms](https://arxiv.org/abs/2405.06050) Hongfei (Fri)
 * [Fermi's 1FAV & 2FAV Catalog](paper-summaries/summary_2fav.md) Sergio (Sat)
 
 ### Week of June 3, 2024

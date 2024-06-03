@@ -22,5 +22,5 @@ Paper Title: [Finding Candidate TeV Halos among Very-High Energy Sources](https:
 
 ## Derive relation
 
-> Find relation of $L_{\rm{50 TeV}} \sim \dot{E}^{0.9}$ or $L_{\rm{50 TeV}}/\dot{E} \sim 6.4 \times 10^{-4}$
-> Candidate TeV halos have harder than 2 spectral indices for 1-25 TeV
+> * Find relation of $L_{\rm{50 TeV}} \sim \dot{E}^{0.9}$ or $L_{\rm{50 TeV}}/\dot{E} \sim 6.4 \times 10^{-4}$
+> * Candidate TeV halos have harder than 2 spectral indices for 1-25 TeV

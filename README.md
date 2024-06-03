@@ -13,3 +13,4 @@
 
 ### Week of June 3, 2024
 * [transient sources of ultra-high-energy cosmic rays](paper-summaries/summary_uhecrsSFR.md) Sergio (Mon)
+* [3HWC J1928+178, 3HWC J1930+188, and the New Source HAWC J1932+192] Ziwei (Mon)

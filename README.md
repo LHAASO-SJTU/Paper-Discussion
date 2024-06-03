@@ -12,4 +12,4 @@
 * [Fermi's 1FAV & 2FAV Catalog](paper-summaries/summary_2fav.md) Sergio (Sat)
 
 ### Week of June 3, 2024
-* TBD
+* [transient sources of ultra-high-energy cosmic rays](paper-summaries/summary_uhecrsSFR.md) Sergio (Mon)

@@ -17,3 +17,4 @@
 * [An ultrahigh-energy γ-ray bubble powered by a super PeVatron(Supplementary materials)](https://ars.els-cdn.com/content/image/1-s2.0-S209592732300912X-mmc1.pdf) Tianyang (Mon)
 * [Finding Candidate TeV Halos among Very-High Energy Sources](paper-summaries/summary_find_halos_tev.md) - Ramiro (Mon)
 * [Diffuse ultrahigh-energy gamma-ray emission from TeV halos](paper-summaries/summary_ziwei.md) Ziwei (Tue)
+* [Massive star clusters as the an alternative source population of galactic cosmic rays](https://link.springer.com/article/10.1007/s12210-019-00819-3) Tianyang (Tue)

@@ -1,7 +1,9 @@
 # LHAASO SJTU Group
 
 > This repository is used for paper reading. You can add a new paper of interest with title \[paper title\]\(link\). 
-> To discuss a paper in group meeting, a special label can be set. Modify the contents of the `README.md` file to update the list of papers. Alternatively, you can add a small subpage in the `paper-summaries` directory and make a small summary about the highlights of the article. 
+> To discuss a paper in group meeting, a special label can be set. Modify the contents of the `README.md` file to update the list of papers. Alternatively, you can add a small subpage in the `paper-summaries` directory and make a small summary about the highlights of the article.
+>
+> Link to Github page: https://lhaaso-sjtu.github.io/Paper-Discussion/
 
 ### Week of May 27, 2024
 * [LHAASO First Catalog](paper-summaries/summary_1.md) Sergio (Mon)

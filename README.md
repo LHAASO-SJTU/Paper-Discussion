@@ -21,3 +21,4 @@
 * [Poynting flux transport channels formed in polar cap regions](paper-summaries/summary_polarcap.md)  Sergio (Tue)
 * [Relation between the keV-MeV and TeV emission of GRB 221009A and its implications](https://arxiv.org/pdf/2404.03229v1) Hao (Wed)
 * [A MODEL OF THE SPECTRAL EVOLUTION OF PULSAR WIND NEBULAE](https://iopscience.iop.org/article/10.1088/0004-637X/715/2/1248/pdf) Yu Luo (Wed)
+* [Paper Title: H.E.S.S. and Fermi-LAT observations of PSR B1259–63/LS 2883 during its 2014 and 2017 periastron passages](paper-summaries/summary_binary_hess.md) Ramiro (Wed)

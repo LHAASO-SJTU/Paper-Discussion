@@ -26,3 +26,5 @@
 * [A MODEL OF THE SPECTRAL EVOLUTION OF PULSAR WIND NEBULAE](https://iopscience.iop.org/article/10.1088/0004-637X/715/2/1248/pdf) Yu Luo (Wed)
 * [Paper Title: H.E.S.S. and Fermi-LAT observations of PSR B1259–63/LS 2883 during its 2014 and 2017 periastron passages](paper-summaries/summary_binary_hess.md) Ramiro (Wed)
 * [Camelidae on BOAT: observation of a second spectral component in GRB 221009A](https://arxiv.org/abs/2405.15855) Ruiyi(Wed)
+* [Young and middle age pulsar light curve morphology: comparison of Fermi observations with 
+-ray and radio emission geometries](paper-summaries/PulsarLightCurveMorphology.md) Sergio (Wed)

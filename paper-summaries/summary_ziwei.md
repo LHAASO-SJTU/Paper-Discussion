@@ -5,3 +5,6 @@ https://ui.adsabs.harvard.edu/abs/2023ApJ...942...96A/abstract
 
 Diffuse ultrahigh-energy gamma-ray emission from TeV halos  
 https://ui.adsabs.harvard.edu/abs/2024PhRvD.109h3026D/abstract
+
+Kinetic simulations of electron-positron induced streaming instability in the context of gamma-ray halos around pulsars  
+https://arxiv.org/abs/2406.02945

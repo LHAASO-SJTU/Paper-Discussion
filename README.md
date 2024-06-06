@@ -28,3 +28,4 @@
 * [Camelidae on BOAT: observation of a second spectral component in GRB 221009A](https://arxiv.org/abs/2405.15855) Ruiyi(Wed)
 * [Young and middle age pulsar light curve morphology: comparison of Fermi observations with 
 -ray and radio emission geometries](paper-summaries/PulsarLightCurveMorphology.md) Sergio (Wed)
+* [Kinetic simulations of pulsar halo](paper-summaries/summary_ziwei.md) Ziwei (Thur)

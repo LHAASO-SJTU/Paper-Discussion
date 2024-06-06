@@ -29,3 +29,4 @@
 * [Young and middle age pulsar light curve morphology: comparison of Fermi observations with 
 -ray and radio emission geometries](paper-summaries/PulsarLightCurveMorphology.md) Sergio (Wed)
 * [Kinetic simulations of pulsar halo](paper-summaries/summary_ziwei.md) Ziwei (Thur)
+* [The Progenitor and Central Engine of a Peculiar GRB 230307A](paper-summaries/summary_grb230307aI.md) Sergio (Thur)

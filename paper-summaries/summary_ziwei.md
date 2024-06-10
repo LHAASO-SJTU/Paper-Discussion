@@ -8,3 +8,6 @@ https://ui.adsabs.harvard.edu/abs/2024PhRvD.109h3026D/abstract
 
 Kinetic simulations of electron-positron induced streaming instability in the context of gamma-ray halos around pulsars  
 https://arxiv.org/abs/2406.02945
+
+Simulations predict intermediate-mass black hole formation in globular clusters  
+https://www.science.org/doi/10.1126/science.adi4211

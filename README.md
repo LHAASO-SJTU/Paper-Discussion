@@ -34,3 +34,6 @@
 ### Week of June 10, 2024
 * [Simulations predict intermediate-mass black hole formation in globular clusters](paper-summaries/summary_ziwei.md) Ziwei (Mon)
 * [Brightening and Fading in the Youngest Galactic Supernova Remnant G1.9+0.3: 13 years of monitoring with the Chandra X-ray Observatory](paper-summaries/brighteningofYounSNR.md) Sergio (Tue)
+* [A New Puzzling Periodic Signal in GeV Energies of the γ-Ray Binary LS I +61303](https://arxiv.org/pdf/2406.02042v1) Hao (Tue)
+* [Superbubbles as Galactic PeVatrons: The Potential Role of Rapid Second-Order Fermi Acceleration](https://arxiv.org/pdf/2406.03555v1) Hao (Tue)
+* [Galactic center GeV excess and classification of Fermi -LAT sources with machine learning]((https://arxiv.org/pdf/2406.03990v1) Hao (Tue)

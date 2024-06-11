@@ -33,3 +33,4 @@
 
 ### Week of June 10, 2024
 * [Simulations predict intermediate-mass black hole formation in globular clusters](paper-summaries/summary_ziwei.md) Ziwei (Mon)
+* [Brightening and Fading in the Youngest Galactic Supernova Remnant G1.9+0.3: 13 years of monitoring with the Chandra X-ray Observatory](paper-summaries/brighteningofYounSNR.md) Sergio (Tue)

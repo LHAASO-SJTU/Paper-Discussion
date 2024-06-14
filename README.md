@@ -38,3 +38,4 @@
 * [Superbubbles as Galactic PeVatrons: The Potential Role of Rapid Second-Order Fermi Acceleration](https://arxiv.org/pdf/2406.03555v1) Hao (Tue)
 * [Galactic center GeV excess and classification of Fermi -LAT sources with machine learning](https://arxiv.org/pdf/2406.03990v1) Hao (Tue)
 * [Optimising an Array of Cherenkov Telescopes in Australia for the Detection of TeV Gamma-Ray Transients](paper-summaries/summary_ziwei.md) Ziwei (Fri)
+* [Supernova Remanst in gamma-rays](paper-summaries) Sergio (Fri)

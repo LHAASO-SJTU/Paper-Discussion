@@ -11,3 +11,6 @@ https://arxiv.org/abs/2406.02945
 
 Simulations predict intermediate-mass black hole formation in globular clusters  
 https://www.science.org/doi/10.1126/science.adi4211
+
+Optimising an Array of Cherenkov Telescopes in Australia for the Detection of TeV Gamma-Ray Transients  
+https://arxiv.org/abs/2406.08807

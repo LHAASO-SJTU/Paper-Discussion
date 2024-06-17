@@ -40,6 +40,9 @@
 * [Optimising an Array of Cherenkov Telescopes in Australia for the Detection of TeV Gamma-Ray Transients](paper-summaries/summary_ziwei.md) Ziwei (Fri)
 * [Supernova Remanst in gamma-rays](paper-summaries/snrgammarays.md) Sergio (Fri)
 * [Anisotropic diffusion cannot explain TeV halo observations](paper-summaries/anydifnoTeVHalo.md) Sergio (Fri)
+* [Teraelectronvolt pulsed emission from the Crab Pulsar detected by MAGIC](https://www.aanda.org/articles/aa/pdf/2016/01/aa26853-15.pdf) Hongfei
+* [Unraveling TeV Halos with the Cherenkov Telescope Array](https://arxiv.org/pdf/2312.10232) Hongfei
+* [PINT: A Modern Software Package for Pulsar Timing](https://iopscience.iop.org/article/10.3847/1538-4357/abe62f/pdf) Hongfei
 
 ### Week of June 17, 2024
 * [Diffuse Ultra-High-Energy Gamma-Ray Emission From TeV Halos](paper-summaries/summary_diffuse_tev.md) - Ramiro (Mon)

@@ -47,3 +47,4 @@
 
 ### Week of June 17, 2024
 * [Diffuse Ultra-High-Energy Gamma-Ray Emission From TeV Halos](paper-summaries/summary_diffuse_tev.md) - Ramiro (Mon)
+* [Testing unified models for the origin of ultrahigh-energy cosmic rays and neutrinos:Multimessenger approaches with x-ray observations](paper-summaries/summary_ziwei.md) Ziwei (Wen)

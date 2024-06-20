@@ -14,3 +14,6 @@ https://www.science.org/doi/10.1126/science.adi4211
 
 Optimising an Array of Cherenkov Telescopes in Australia for the Detection of TeV Gamma-Ray Transients  
 https://arxiv.org/abs/2406.08807
+
+Testing unified models for the origin of ultrahigh-energy cosmic rays and neutrinos:Multimessenger approaches with x-ray observations  
+https://arxiv.org/abs/2406.10944

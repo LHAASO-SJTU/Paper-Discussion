@@ -48,3 +48,6 @@
 ### Week of June 17, 2024
 * [Diffuse Ultra-High-Energy Gamma-Ray Emission From TeV Halos](paper-summaries/summary_diffuse_tev.md) - Ramiro (Mon)
 * [Testing unified models for the origin of ultrahigh-energy cosmic rays and neutrinos:Multimessenger approaches with x-ray observations](paper-summaries/summary_ziwei.md) Ziwei (Wen)
+
+### Week of June24, 2024
+* [Searching for X-Ray Counterparts of Degree Wide TeV Halos Around Middle-Aged Pulsars with SRG/eROSITA](https://arxiv.org/pdf/2310.10454) - Ramiro (Thurs)

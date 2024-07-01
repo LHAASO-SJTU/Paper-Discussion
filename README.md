@@ -51,3 +51,6 @@
 
 ### Week of June24, 2024
 * [Searching for X-Ray Counterparts of Degree Wide TeV Halos Around Middle-Aged Pulsars with SRG/eROSITA](https://arxiv.org/pdf/2310.10454) - Ramiro (Thurs)
+
+### Week of July 1, 2024
+* [Multi-messenger modeling of the Monogem pulsar halo](https://arxiv.org/abs/2406.13426) - Ramiro (Mon)

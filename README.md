@@ -56,3 +56,4 @@
 
 ### Week of July 1, 2024
 * [Multi-messenger modeling of the Monogem pulsar halo](https://arxiv.org/abs/2406.13426) - Ramiro (Mon)
+* [Geminga's pulsar halo: an X-ray view](https://arxiv.org/abs/2403.10902) - Ramiro (Tue)

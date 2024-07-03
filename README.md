@@ -6,9 +6,9 @@
 > Link to Github page: [https://lhaaso-sjtu.github.io/Paper-Discussion/](https://lhaaso-sjtu.github.io/Paper-Discussion/)
 
 ### Week of July 1, 2024
-* [Multi-messenger modeling of the Monogem pulsar halo](https://arxiv.org/abs/2406.13426) - Ramiro (Mon)
-* [Geminga's pulsar halo: an X-ray view](https://arxiv.org/abs/2403.10902) - Ramiro (Tue)
 * [Evidence for particle acceleration approaching PeV energies in the W51 complex](https://arxiv.org/pdf/2407.00624) - Ramiro (Wed)
+* [Geminga's pulsar halo: an X-ray view](https://arxiv.org/abs/2403.10902) - Ramiro (Tue)
+* [Multi-messenger modeling of the Monogem pulsar halo](https://arxiv.org/abs/2406.13426) - Ramiro (Mon)
 
 ### Week of June24, 2024
 * [Searching for X-Ray Counterparts of Degree Wide TeV Halos Around Middle-Aged Pulsars with SRG/eROSITA](https://arxiv.org/pdf/2310.10454) - Ramiro (Thurs)

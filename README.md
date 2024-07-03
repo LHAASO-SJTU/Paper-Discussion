@@ -57,3 +57,4 @@
 ### Week of July 1, 2024
 * [Multi-messenger modeling of the Monogem pulsar halo](https://arxiv.org/abs/2406.13426) - Ramiro (Mon)
 * [Geminga's pulsar halo: an X-ray view](https://arxiv.org/abs/2403.10902) - Ramiro (Tue)
+* [Evidence for particle acceleration approaching PeV energies in the W51 complex](https://arxiv.org/pdf/2407.00624) - Ramiro (Wed)

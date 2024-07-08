@@ -5,6 +5,9 @@
 >
 > Link to Github page: [https://lhaaso-sjtu.github.io/Paper-Discussion/](https://lhaaso-sjtu.github.io/Paper-Discussion/)
 
+### Week of July 8, 2024
+* [Ultra-fast generation of air shower images for Imaging Air Cherenkov Telescopes using Generative Adversarial Networks](https://iopscience.iop.org/article/10.1088/1748-0221/19/04/P04010/pdf) - Ramiro (Mon)
+
 ### Week of July 1, 2024
 * [Evidence for particle acceleration approaching PeV energies in the W51 complex](https://arxiv.org/pdf/2407.00624) - Ramiro (Wed)
 * [Geminga's pulsar halo: an X-ray view](https://arxiv.org/abs/2403.10902) - Ramiro (Tue)

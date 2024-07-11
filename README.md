@@ -9,6 +9,7 @@
 * [Observation of the Galactic Center PeVatron Beyond 100 TeV with HAWC](https://arxiv.org/pdf/2407.03682) - Ramiro (Thurs)
 * [Ultra-fast generation of air shower images for Imaging Air Cherenkov Telescopes using Generative Adversarial Networks](https://iopscience.iop.org/article/10.1088/1748-0221/19/04/P04010/pdf) - Ramiro (Mon)
 * [Non-Thermal Emission from Microquasar Jets: the case of GRS 1915+105](https://www.sciencedirect.com/science/article/pii/S2214404824000491?via%3Dihub) - Ramiro (Mon)
+* [Millisecond Pulsars, TeV Halos, and Implications For The Galactic Center Gamma-Ray Excess](https://arxiv.org/pdf/1803.08046) - Hongfei
 
 ### Week of July 1, 2024
 * [Evidence for particle acceleration approaching PeV energies in the W51 complex](https://arxiv.org/pdf/2407.00624) - Ramiro (Wed)

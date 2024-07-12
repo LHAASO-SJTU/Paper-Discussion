@@ -17,3 +17,6 @@ https://arxiv.org/abs/2406.08807
 
 Testing unified models for the origin of ultrahigh-energy cosmic rays and neutrinos:Multimessenger approaches with x-ray observations  
 https://arxiv.org/abs/2406.10944
+
+Extended gamma-ray emission from particle escape in pulsar wind nebulae  
+https://arxiv.org/abs/2407.07583

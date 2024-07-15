@@ -5,6 +5,9 @@
 >
 > Link to Github page: [https://lhaaso-sjtu.github.io/Paper-Discussion/](https://lhaaso-sjtu.github.io/Paper-Discussion/)
 
+### Week of July 15, 2024
+
+
 ### Week of July 8, 2024
 * [Extended gamma-ray emission from particle escape in pulsar wind nebulae](paper-summaries/summary_ziwei.md) Ziwei (Fri)
 * [Observation of the Galactic Center PeVatron Beyond 100 TeV with HAWC](https://arxiv.org/pdf/2407.03682) - Ramiro (Thurs)

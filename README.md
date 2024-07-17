@@ -7,6 +7,7 @@
 
 ### Week of July 15, 2024
 
+* [The Crab Nebula as a standard candle in very high-energy astrophysics](https://arxiv.org/abs/1008.4524) (Sergio, Wednesday)
 
 ### Week of July 8, 2024
 * [Extended gamma-ray emission from particle escape in pulsar wind nebulae](paper-summaries/summary_ziwei.md) Ziwei (Fri)

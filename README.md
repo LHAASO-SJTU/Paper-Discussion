@@ -9,6 +9,8 @@
 ### Week of July 22, 2024
 
 * [A New Perspective on the Diffuse Gamma-Ray Emission Excess](https://arxiv.org/pdf/2407.15474) - Ramiro (Tue)
+* [Prospects for the detection of very-high-energy pulsars with LHAASO and
+SWGO](https://arxiv.org/pdf/2407.00262) - Ramiro (Tue)
 
 ### Week of July 15, 2024
 

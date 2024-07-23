@@ -5,8 +5,10 @@
 >
 > Link to Github page: [https://lhaaso-sjtu.github.io/Paper-Discussion/](https://lhaaso-sjtu.github.io/Paper-Discussion/)
 
+
 ### Week of July 22, 2024
 
+* [A New Perspective on the Diffuse Gamma-Ray Emission Excess](https://arxiv.org/pdf/2407.15474) - Ramiro (Tue)
 
 ### Week of July 15, 2024
 

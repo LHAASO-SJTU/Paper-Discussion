@@ -5,6 +5,9 @@
 >
 > Link to Github page: [https://lhaaso-sjtu.github.io/Paper-Discussion/](https://lhaaso-sjtu.github.io/Paper-Discussion/)
 
+### Week of July 22, 2024
+
+
 ### Week of July 15, 2024
 
 * [The Crab Nebula as a standard candle in very high-energy astrophysics](https://arxiv.org/abs/1008.4524) (Sergio, Wednesday)

@@ -5,6 +5,11 @@
 >
 > Link to Github page: [https://lhaaso-sjtu.github.io/Paper-Discussion/](https://lhaaso-sjtu.github.io/Paper-Discussion/)
 
+### Week of Aug 5, 2024
+
+### Week of July 29, 2024
+
+> Summer Holiday TDLI
 
 ### Week of July 22, 2024
 

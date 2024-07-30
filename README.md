@@ -9,6 +9,8 @@
 
 ### Week of July 29, 2024
 
+* [Ultra High Energy Gamma Ray Astronomy](https://arxiv.org/pdf/2310.01744)
+
 > Summer Holiday TDLI
 
 ### Week of July 22, 2024

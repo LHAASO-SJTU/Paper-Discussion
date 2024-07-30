@@ -9,7 +9,7 @@
 
 ### Week of July 29, 2024
 
-* [Ultra High Energy Gamma Ray Astronomy](https://arxiv.org/pdf/2310.01744)
+* [Ultra High Energy Gamma Ray Astronomy](https://arxiv.org/pdf/2310.01744) - Ramiro (Tue)
 
 > Summer Holiday TDLI
 

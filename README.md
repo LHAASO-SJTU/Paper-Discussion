@@ -5,6 +5,10 @@
 >
 > Link to Github page: [https://lhaaso-sjtu.github.io/Paper-Discussion/](https://lhaaso-sjtu.github.io/Paper-Discussion/)
 
+
+### Week of Aug 12, 2024
+
+
 ### Week of Aug 5, 2024
 * [The traveling-PWN modeling attempt on several mysterious > 25 TeV LHAASO sources](https://arxiv.org/pdf/2408.02070) - Ramiro (Thur)
 

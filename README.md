@@ -5,6 +5,8 @@
 >
 > Link to Github page: [https://lhaaso-sjtu.github.io/Paper-Discussion/](https://lhaaso-sjtu.github.io/Paper-Discussion/)
 
+### Week of Aug 19, 2024
+* [Observation of the γ-ray Emission from W43 with LHAASO](https://arxiv.org/pdf/2408.09905) - Ramiro (Wed)
 
 ### Week of Aug 12, 2024
 

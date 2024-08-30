@@ -5,9 +5,14 @@
 >
 > Link to Github page: [https://lhaaso-sjtu.github.io/Paper-Discussion/](https://lhaaso-sjtu.github.io/Paper-Discussion/)
 
+### Week of Aug 26, 2024
+* [Hard X-ray observation and multiwavelength study
+of the PeVatron candidate pulsar wind nebula “Dragonfly”](https://arxiv.org/pdf/2306.07347) - Ramiro (Fri)
+
 ### Week of Aug 19, 2024
 * [Observation of the γ-ray Emission from W43 with LHAASO](https://arxiv.org/pdf/2408.09905) - Ramiro (Wed)
 * [Precise measurement of the cosmic-ray spectrum and ⟨ln A⟩ by LHAASO — connecting the Galactic to the extragalactic components](https://arxiv.org/pdf/2403.11832v1) - Ramiro (Thu)
+
 
 ### Week of Aug 12, 2024
 

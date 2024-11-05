@@ -5,6 +5,9 @@
 >
 > Link to Github page: [https://lhaaso-sjtu.github.io/Paper-Discussion/](https://lhaaso-sjtu.github.io/Paper-Discussion/)
 
+### Week of Nov 4, 2024
+* [GeV Gamma-Ray Emission and Molecular Clouds toward Supernova Remnant G35.6-0.4 and the TeV Source HESS J8158+020](https://iopscience.iop.org/article/10.3847/1538-4357/ac6957)
+
 ### Week of Aug 26, 2024
 * [Hard X-ray observation and multiwavelength study
 of the PeVatron candidate pulsar wind nebula “Dragonfly”](https://arxiv.org/pdf/2306.07347) - Ramiro (Fri)
